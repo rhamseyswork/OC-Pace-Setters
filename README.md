@@ -1,6 +1,6 @@
 # OC Pace Setters Project
 
-Please help improve the project
+This is a project that does full stack dev.
 
 ## Installation
 
@@ -16,3 +16,33 @@ To run the project, use the following command:
 ```bash
 npm start
 ```
+
+## Project Structure
+
+oc-pace-setters/
+├── client/
+│ ├── ...
+│ └── ...
+├── server/
+│ ├── ...
+├── ...
+
+## Features
+
+[Feature 1 description]
+[Feature 2 description]
+
+## Contributing
+
+We welcome contributions from the community. If you'd like to contribute, please follow our contribution guidelines.
+
+## Acknowledgments
+
+We would like to thank the authors of the following libraries/tools for their contributions to this project:
+
+Library/tool 1
+Library/tool 2
+
+## License
+
+This project is licensed under the MIT License- see the [LICENSE](LICENSE) file for details.
