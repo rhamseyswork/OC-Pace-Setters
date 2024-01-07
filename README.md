@@ -25,15 +25,13 @@ oc-pace-setters/
 │ ├── src/
 │ │ ├── Components /
 │ │ ├── Hooks /
-│ │ ├── Pages /
+│ │ ├── pages /
 │ │ │ ├── About.js
 │ │ │ ├── Contact.js
-│ │ │ ├── Portfolio.js
 │ │ │ └── Portfolio.js
-│ │ ├── App.js
-│ │ ├── index.js.js
-│ │ ├── reportWebVitals.js
-│ │ └── setupTests.js
+│ │ ├── App.jsx
+│ │ └── main.jsx
+│ ├── index.html
 │ ├── package.json
 │ └── Dockerfile
 ├── server/

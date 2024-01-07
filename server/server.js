@@ -18,7 +18,7 @@ app.use(cors({
 
 // Define a GET route
 app.get('/api', (req, res) => {
-    res.json({ "users": ["userOne", "userTwo", "userThree"] });
+    res.json({ "Nav": ["Rhamseys", "Garcia", "©2023 FullStack"] });
 });
 
 // Define the port

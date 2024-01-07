@@ -22,3 +22,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+/dist
+/build
+
+# Logs
+*.log
+
+# Other files and directories to ignore
+.DS_Store
