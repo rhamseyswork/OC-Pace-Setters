@@ -21,11 +21,26 @@ npm start
 
 oc-pace-setters/
 ├── client/
-│ ├── ...
-│ └── ...
+│ ├── public/
+│ ├── src/
+│ │ ├── Components /
+│ │ ├── Hooks /
+│ │ ├── Pages /
+│ │ │ ├── About.js
+│ │ │ ├── Contact.js
+│ │ │ ├── Portfolio.js
+│ │ │ └── Portfolio.js
+│ │ ├── App.js
+│ │ ├── index.js.js
+│ │ ├── reportWebVitals.js
+│ │ └── setupTests.js
+│ ├── package.json
+│ └── Dockerfile
 ├── server/
-│ ├── ...
-├── ...
+│ ├── Dockerfile
+│ ├── package.json
+│ └── server.js
+└── docker-compose.yml
 
 ## Features
 
